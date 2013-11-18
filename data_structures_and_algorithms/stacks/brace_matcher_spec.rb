@@ -54,6 +54,12 @@ describe 'brace matching' do
   it 'rejects one extra open paren' do
     matcher.check_matching('(()').should == false
   end
+  it 'rejects when no closing parens' do
+    matcher.check_matching('((').should == false
+  end
+  it 'rejects when no opening parens' do
+    matcher.check_matching('))').should == false
+  end
   it 'accepts multiple brace types' do
     matcher.check_matching('[{}]').should == true
     matcher.check_matching('{()}').should == true
