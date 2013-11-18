@@ -1,11 +1,14 @@
 #### Various exercises and tidbits for saw-sharpening.
 
+---
 
 # Data structures
 
 ## Linked list
 
-## Stack
+## [Stacks](/data_structures_and_algorithms/stacks/)
+Ruby doesn't really have a stack implementation out of the box, but you can easily make a little convenience wrapper around an array.
+
 
 ## Array
 
