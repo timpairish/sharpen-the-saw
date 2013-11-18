@@ -97,9 +97,7 @@ http://tjackiw.tumblr.com/post/23155838377/interview-challenge-ruby-method-chain
 * Tetris
 * Asteroids
 * Breakout
-* Game of Life
-	* bounded
-	* unbounded
+* [Game of Life](/games/game_of_life/)
 * Maze creator
 * Maze solver
 * Tanks
