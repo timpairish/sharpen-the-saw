@@ -1,5 +1,4 @@
 require 'rspec'
-require 'set'
  
 class TicTacToe
   attr_reader :current_player
