@@ -89,7 +89,7 @@ http://tjackiw.tumblr.com/post/23155838377/interview-challenge-ruby-method-chain
 # Games
 
 * Rock-Paper-Scissors
-* Tic Tac Toe
+* [Tic Tac Toe](/games/tictactoe/)
 * Hangman
 * Pong
 * Solitaire
